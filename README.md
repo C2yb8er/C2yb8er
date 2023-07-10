@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 
 ##  (Him/He) 🌻
 - 🔭 I’m a Student 
@@ -6,6 +6,11 @@
 - 💬 Let's talk about Language 
 - 📫 **How to reach me**: [Website](https://c2yb8er.cn/) 
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+
+
+
+
+[C2yb8er's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
